@@ -1,9 +1,10 @@
 {
   "index_name": "cxjs",
+  "js_render": true,
   "start_urls": [
     "https://docs.cxjs.io"
   ],
-  "stop_urls": [],
+  "stop_urls": [],  
   "selectors": {   
     "lvl1": ".dxe-article-body h1",
     "lvl2": ".dxe-article-body h2",
